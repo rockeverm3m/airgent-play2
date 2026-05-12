@@ -1,4 +1,4 @@
-# 🔉 Airgent Play 2 · 空气特工 2
+# 🔉 Airgent Play 2
 
 > **Let your agent talk to you. Through any speaker. In any room.**
 > **让你的 AI agent，在任何房间的音箱上，开口向你汇报。**

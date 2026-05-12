@@ -1,10 +1,13 @@
-# 🔉 Airgent Play 2
+# 🔉 Airgent Play 2 · 空气特工 2
 
-> **Let your claw talk to you. Through any speaker. In any room.**
+> **Let your agent talk to you. Through any speaker. In any room.**
+> **让你的 AI agent，在任何房间的音箱上，开口向你汇报。**
 >
 > AirPlay 2 · DLNA · Local TTS. One command, every speaker.
+> AirPlay 2 · DLNA · 本地 TTS。一条命令，所有音箱。
 >
 > Task finished? Download done? Bug found? Your agent doesn't text you — it *speaks* to you.
+> 任务跑完了？下载好了？出 bug 了？你的 agent 不用发文字——它直接开口说给你听。
 
 ---
 
@@ -18,15 +21,23 @@
 
 [English](README.md) | [中文](README.zh-CN.md)
 
-## What is this?
+## What is this? / 这是什么？
 
 Your AI agents finish background tasks all the time — cron jobs, downloads, model training, data processing. But they can only *text* you. You have to check your phone, open Feishu, scroll through notifications.
 
+你的 AI agent 每天在后台跑一堆任务——定时下载、模型训练、数据处理。但它们只能发文字通知。你得拿起手机、打开飞书、翻消息。
+
 Airgent Play2 gives agents a **voice**. When a task completes, your agent speaks the result through any AirPlay 2 speaker in your house.
+
+Airgent Play2 给 agent 装了张嘴。任务一完成，agent 直接把结果念给你听——随便哪个房间的音箱都行。
 
 Kitchen speaker: *"Z-Lib download done — six books."*
 Living room soundbar: *"Dataset processing finished — 2.3 TB, zero errors."*
 Study monitors: *"Remux found — Dune Part Two, 4K HDR, seeding now."*
+
+厨房音箱：*「Z-Lib 下载完成，六本书。」*
+客厅回音壁：*「数据集处理完毕，2.3TB，零错误。」*
+书房监听：*「Remux 有货了——沙丘2，4K HDR，正在做种。」*
 
 ## How it works
 

@@ -3,6 +3,7 @@ name: airgent-play2
 description: "Voice notifications via AirPlay 2 + DLNA. Let your claw speak through any speaker in your house."
 version: 0.1.0
 homepage: "https://github.com/rockeverm3m/airgent-play2"
+license: MIT-0
 tags:
   - audio
   - notifications

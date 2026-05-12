@@ -1,6 +1,6 @@
 # 🔉 Airgent Play 2
 
-> **Let your AI agents talk to you. Through any speaker. In any room.**
+> **Let your claw talk to you. Through any speaker. In any room.**
 >
 > AirPlay 2 · DLNA · Local TTS. One command, every speaker.
 >
